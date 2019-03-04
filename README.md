@@ -7,3 +7,4 @@ Use at your own risk, but I've tried to use best practices.
 Modules:
 - `crypto`: password hashing, rsa keys, encryption
 - `slice`: safely slice strings
+- `auth`: authentication/JWT things
